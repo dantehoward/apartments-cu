@@ -1,4 +1,5 @@
 import React from "react";
+import Building from "../Building/Building";
 import './BuildingList.css';
 
 class BuildingList extends React.Component {
@@ -10,6 +11,11 @@ class BuildingList extends React.Component {
         return(
             <div className="BuildingList">
                 <p>BuildingList</p>
+                {
+                    this.props.buildings.map(building => {
+                        return <Building building={building} key={building.id}/>
+                    })
+                }
             </div>
         );
     }
