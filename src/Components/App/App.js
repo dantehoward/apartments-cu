@@ -1,7 +1,8 @@
 import './App.css';
 import React from 'react';
-import MapContainer from '../Map/MapContainer.js';
+import MapContainer from '../MapContainer/MapContainer.js';
 import OptionBar from '../OptionBar/OptionBar';
+import BuildingList from '../BuildingList/BuildingList';
 
 class App extends React.Component {
 
@@ -13,10 +14,11 @@ class App extends React.Component {
 
     render() {
         return (
-            <div>
+            <div className='container'>
                 <OptionBar/>
-                <div>
-                    <MapContainer></MapContainer>   
+                <div className='content'>
+                    <BuildingList/>
+                    <MapContainer/>   
                 </div>
             </div>
         );
