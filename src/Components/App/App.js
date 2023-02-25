@@ -1,5 +1,6 @@
 import './App.css';
 import React from 'react';
+import MapContainer from '../Map/MapContainer.js';
 
 class App extends React.Component {
 
@@ -11,7 +12,12 @@ class App extends React.Component {
 
     render() {
         return (
-             <h1>App</h1>
+            <div>
+                <h1 text-align="center">Apartments CU</h1>
+                <div>
+                    <MapContainer></MapContainer>   
+                </div>
+            </div>
         );
     }
 }
