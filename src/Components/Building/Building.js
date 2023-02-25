@@ -7,6 +7,7 @@ class Building extends React.Component {
             <div className="Building">
                 <div className="Building-information">
                     <h3>{this.props.building.name}</h3>
+                    <p>{this.props.building.address}</p>
                 </div>
             </div>
         );

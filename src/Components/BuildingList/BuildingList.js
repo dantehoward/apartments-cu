@@ -10,7 +10,7 @@ class BuildingList extends React.Component {
     render() {
         return(
             <div className="BuildingList">
-                <p>BuildingList</p>
+                <h1>BuildingList</h1>
                 {
                     this.props.buildings.map(building => {
                         return <Building building={building} key={building.id}/>

@@ -1,3 +1,37 @@
 h1 {
     text-align: center;
 }
+
+label {
+    display: inline-block;
+    margin-right: 1rem;
+    font-size: 1.5rem;
+    color: #555;
+  }
+  
+  input {
+    display: inline-block;
+    width: 5rem;
+    margin-right: 1rem;
+    border: none;
+    border-bottom: 2px solid #ccc;
+    background-color: #f7f7f7;
+    transition: border-bottom 0.2s;
+  }
+
+select {
+    display: inline-block;
+    width: 5rem;
+    margin-right: 1rem;
+    border: none;
+    border-bottom: 2px solid #ccc;
+    background-color: #f7f7f7;
+    transition: border-bottom 0.2s;
+  }
+
+.options {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
