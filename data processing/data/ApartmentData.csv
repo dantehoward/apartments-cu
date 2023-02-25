@@ -1,0 +1,21 @@
+Response ID,Building Name,Building address,"Latitude, Longitude",Rent Price,Number of Beds,Number of Baths,Apartment Features,Date of Lease signing,Length of Lease,Amenities,Management Company
+1,303 E Green,303 E Green,"40.10988499782836, -88.23492264386778",450,4 Bedroom,2,"dishwasher, Gigabit Internet, Fridge",1/22/2022,12,,
+2,Campus Circle,1010 W University Ave,"40.11673792634596, -88.22194856040653",700,4 Bedroom,4,"In unit washer/dryer, dishwasher, Gigabit Internet, TV, Microwave, Fridge, Induction Stove",10/31/2021,12,"Gym, Pool, Study spaces, Covered Parking, Patio, Pets",Peakmade
+3,The Hub,812 S 6th St,"40.108189530899544, -88.2301420603398",1520,1 / Studio,1,"In unit washer/dryer, dishwasher, Gigabit Internet, TV, Microwave, Fridge, Induction Stove",8/1/2021,12,"Gym, Pool, Study spaces, Sauna, Covered Parking, Patio, Pets",
+4,303 S 5th St,303 S 5th St,"40.11419736439126, -88.23235962358794",880,3 Bedroom,3,"In unit washer/dryer, dishwasher, Gigabit Internet, TV, Microwave, Fridge, Induction Stove",10/24/2022,12,Covered Parking,MHM
+6,Gregory Towers,1107 S 4th St,"40.10457818232214, -88.23368289498171",491,5 bedroom ,2,"In unit washer/dryer, dishwasher, Gigabit Internet, TV, Microwave, Fridge",8/3/2022,12,Covered Parking,University Group
+7,101 E Green St,101 E Green St,"40.110148174649844, -88.23824832358977",$369,3 Bedroom,2,"dishwasher, Gigabit Internet, Microwave, Fridge, Induction Stove",6/10/2022,12,"Covered Parking, Pets",Campustown rentals
+8,1008 S Busey Ave ,1008 S Busey Ave ,"40.10419468970875, -88.21736902358991",500,2 Bedroom,1,Fridge,11/5/2021,12,Pets,JSJ
+9,Illini Manor ,401 E Chalmers Street,"40.106804789045086, -88.23302632332411",$717,1 / Studio,1,"Gigabit Internet, Microwave, Fridge, Induction Stove",12/15/2022,12,,JSM
+10,209 W Griggs ,209 W Griggs ,"40.11445627374976, -88.20997462306016",450,2 Bedroom,2,"In unit washer/dryer, dishwasher, Fridge",5/10/2022,12,Covered Parking,Green Street Realty
+11,Park Place Tower,202 E Green,"40.11074148425794, -88.23662875193808",675,4 Bedroom,3,"In unit washer/dryer, dishwasher, Gigabit Internet, TV, Microwave, Fridge, Induction Stove",8/18/2022,12,"Gym, Covered Parking, Patio",Bankier Apartments
+12,Park Place Tower,202 E Green,"40.11074148425794, -88.23662875193808",800,4 Bedroom,3,"In unit washer/dryer, dishwasher, Gigabit Internet, TV, Microwave, Fridge, Induction Stove",8/18/2023,12,"Gym, Covered Parking, Patio",Bankier Apartments
+13,508 E Clark St,508 E Clark St,"40.11570536096198, -88.23123398133531",960,2 Bedroom,1,"In unit washer/dryer, dishwasher, Gigabit Internet, Microwave, Fridge, Induction Stove",11/2/2021,12,Covered Parking,Green Street Realty
+14,203 E. Stoughton,203 E. Stoughton,"40.11324322641337, -88.23657421178893",775,1 / Studio,1,"In unit washer/dryer, dishwasher, Gigabit Internet, TV, Microwave, Fridge, Induction Stove",1/23/2022,12,,JSM
+15,907 S 3rd st,907 S 3rd st,"40.10754230484438, -88.2357231514118",700,4 Bedroom,2,"In unit washer/dryer, dishwasher, TV, Microwave, Fridge",,12,"Covered Parking, Patio",Green Street Realty
+16,211 E John,211 E John,"40.1089498772725, -88.23570346584079",560,4 Bedroom,2,"In unit washer/dryer, dishwasher, TV, Fridge",11/15/2021,12,,University group
+17,Gregory place,"701 S Gregory St Urbana, IL 61801","40.10689929410594, -88.22173013643202",1250,2 Bedroom,1,"In unit washer/dryer, dishwasher, Gigabit Internet, TV, Microwave, Fridge",11/15/2021,12,"Covered Parking, Patio",JSM
+18,808 W Springfield Avenue (no name),808 W Springfield Avenue,"40.113187271877024, -88.21870419445077",320,2 Bedroom,1,"Microwave, Fridge",7/13/2022,12,,Independent small landlord
+19,The Alcove,202 E John,"40.10957988708901, -88.2367940941826",460,2 Bedroom,1,"Gigabit Internet, Microwave, Fridge",10/15/2021,12,Patio,Gefen
+20,Gregory Place,"701 S Gregory St, urbana IL","40.106866470866784, -88.22175159524686",677,2 Bedroom,1,"In unit washer/dryer, dishwasher, TV, Microwave, Fridge, Induction Stove",1/10/2022,12,"Covered Parking, Patio",JSM
+21,The Retreat,901 W. College Court,"40.099139308962435, -88.22033626557511",$750,3 Bedroom,3,"In unit washer/dryer, dishwasher, Gigabit Internet, TV, Microwave, Fridge",10/1/2022,12,"Gym, Pool, Study spaces, Patio, Pets",The Retreat

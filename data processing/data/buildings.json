@@ -1,0 +1,325 @@
+[
+    {
+        "id": 1,
+        "name": "303 E Green",
+        "address": "303 E Green",
+        "lat": 40.10988499782836,
+        "lon": -88.23492264386778,
+        "amenities": {
+            "gym": false,
+            "pool": false,
+            "studySpace": false,
+            "sauna": false,
+            "coveredParking": false,
+            "patio": false,
+            "pets": false
+        },
+        "company": null
+    },
+    {
+        "id": 2,
+        "name": "Campus Circle",
+        "address": "1010 W University Ave",
+        "lat": 40.11673792634596,
+        "lon": -88.22194856040653,
+        "amenities": {
+            "gym": true,
+            "pool": false,
+            "studySpace": false,
+            "sauna": false,
+            "coveredParking": false,
+            "patio": false,
+            "pets": false
+        },
+        "company": "Peakmade"
+    },
+    {
+        "id": 3,
+        "name": "The Hub",
+        "address": "812 S 6th St",
+        "lat": 40.108189530899544,
+        "lon": -88.2301420603398,
+        "amenities": {
+            "gym": true,
+            "pool": false,
+            "studySpace": false,
+            "sauna": false,
+            "coveredParking": false,
+            "patio": false,
+            "pets": false
+        },
+        "company": null
+    },
+    {
+        "id": 4,
+        "name": "303 S 5th St",
+        "address": "303 S 5th St",
+        "lat": 40.11419736439126,
+        "lon": -88.23235962358794,
+        "amenities": {
+            "gym": false,
+            "pool": false,
+            "studySpace": false,
+            "sauna": false,
+            "coveredParking": true,
+            "patio": false,
+            "pets": false
+        },
+        "company": "MHM"
+    },
+    {
+        "id": 5,
+        "name": "Gregory Towers",
+        "address": "1107 S 4th St",
+        "lat": 40.10457818232214,
+        "lon": -88.23368289498171,
+        "amenities": {
+            "gym": false,
+            "pool": false,
+            "studySpace": false,
+            "sauna": false,
+            "coveredParking": true,
+            "patio": false,
+            "pets": false
+        },
+        "company": "University Group"
+    },
+    {
+        "id": 6,
+        "name": "101 E Green St",
+        "address": "101 E Green St",
+        "lat": 40.110148174649844,
+        "lon": -88.23824832358977,
+        "amenities": {
+            "gym": false,
+            "pool": false,
+            "studySpace": false,
+            "sauna": false,
+            "coveredParking": true,
+            "patio": false,
+            "pets": false
+        },
+        "company": "Campustown rentals"
+    },
+    {
+        "id": 7,
+        "name": "1008 S Busey Ave ",
+        "address": "1008 S Busey Ave ",
+        "lat": 40.10419468970875,
+        "lon": -88.21736902358991,
+        "amenities": {
+            "gym": false,
+            "pool": false,
+            "studySpace": false,
+            "sauna": false,
+            "coveredParking": false,
+            "patio": false,
+            "pets": true
+        },
+        "company": "JSJ"
+    },
+    {
+        "id": 8,
+        "name": "Illini Manor ",
+        "address": "401 E Chalmers Street",
+        "lat": 40.106804789045086,
+        "lon": -88.23302632332411,
+        "amenities": {
+            "gym": false,
+            "pool": false,
+            "studySpace": false,
+            "sauna": false,
+            "coveredParking": false,
+            "patio": false,
+            "pets": false
+        },
+        "company": "JSM"
+    },
+    {
+        "id": 9,
+        "name": "209 W Griggs ",
+        "address": "209 W Griggs ",
+        "lat": 40.11445627374976,
+        "lon": -88.20997462306016,
+        "amenities": {
+            "gym": false,
+            "pool": false,
+            "studySpace": false,
+            "sauna": false,
+            "coveredParking": true,
+            "patio": false,
+            "pets": false
+        },
+        "company": "Green Street Realty"
+    },
+    {
+        "id": 10,
+        "name": "Park Place Tower",
+        "address": "202 E Green",
+        "lat": 40.11074148425794,
+        "lon": -88.23662875193808,
+        "amenities": {
+            "gym": true,
+            "pool": false,
+            "studySpace": false,
+            "sauna": false,
+            "coveredParking": false,
+            "patio": false,
+            "pets": false
+        },
+        "company": "Bankier Apartments"
+    },
+    {
+        "id": 11,
+        "name": "508 E Clark St",
+        "address": "508 E Clark St",
+        "lat": 40.11570536096198,
+        "lon": -88.23123398133531,
+        "amenities": {
+            "gym": false,
+            "pool": false,
+            "studySpace": false,
+            "sauna": false,
+            "coveredParking": true,
+            "patio": false,
+            "pets": false
+        },
+        "company": "Green Street Realty"
+    },
+    {
+        "id": 12,
+        "name": "203 E. Stoughton",
+        "address": "203 E. Stoughton",
+        "lat": 40.11324322641337,
+        "lon": -88.23657421178893,
+        "amenities": {
+            "gym": false,
+            "pool": false,
+            "studySpace": false,
+            "sauna": false,
+            "coveredParking": false,
+            "patio": false,
+            "pets": false
+        },
+        "company": "JSM"
+    },
+    {
+        "id": 13,
+        "name": "907 S 3rd st",
+        "address": "907 S 3rd st",
+        "lat": 40.10754230484438,
+        "lon": -88.2357231514118,
+        "amenities": {
+            "gym": false,
+            "pool": false,
+            "studySpace": false,
+            "sauna": false,
+            "coveredParking": true,
+            "patio": false,
+            "pets": false
+        },
+        "company": "Green Street Realty"
+    },
+    {
+        "id": 14,
+        "name": "211 E John",
+        "address": "211 E John",
+        "lat": 40.1089498772725,
+        "lon": -88.23570346584079,
+        "amenities": {
+            "gym": false,
+            "pool": false,
+            "studySpace": false,
+            "sauna": false,
+            "coveredParking": false,
+            "patio": false,
+            "pets": false
+        },
+        "company": "University group"
+    },
+    {
+        "id": 15,
+        "name": "Gregory place",
+        "address": "701 S Gregory St Urbana, IL 61801",
+        "lat": 40.10689929410594,
+        "lon": -88.22173013643202,
+        "amenities": {
+            "gym": false,
+            "pool": false,
+            "studySpace": false,
+            "sauna": false,
+            "coveredParking": true,
+            "patio": false,
+            "pets": false
+        },
+        "company": "JSM"
+    },
+    {
+        "id": 16,
+        "name": "808 W Springfield Avenue (no name)",
+        "address": "808 W Springfield Avenue",
+        "lat": 40.113187271877024,
+        "lon": -88.21870419445077,
+        "amenities": {
+            "gym": false,
+            "pool": false,
+            "studySpace": false,
+            "sauna": false,
+            "coveredParking": false,
+            "patio": false,
+            "pets": false
+        },
+        "company": "Independent small landlord"
+    },
+    {
+        "id": 17,
+        "name": "The Alcove",
+        "address": "202 E John",
+        "lat": 40.10957988708901,
+        "lon": -88.2367940941826,
+        "amenities": {
+            "gym": false,
+            "pool": false,
+            "studySpace": false,
+            "sauna": false,
+            "coveredParking": false,
+            "patio": true,
+            "pets": false
+        },
+        "company": "Gefen"
+    },
+    {
+        "id": 18,
+        "name": "Gregory Place",
+        "address": "701 S Gregory St, urbana IL",
+        "lat": 40.106866470866784,
+        "lon": -88.22175159524686,
+        "amenities": {
+            "gym": false,
+            "pool": false,
+            "studySpace": false,
+            "sauna": false,
+            "coveredParking": true,
+            "patio": false,
+            "pets": false
+        },
+        "company": "JSM"
+    },
+    {
+        "id": 19,
+        "name": "The Retreat",
+        "address": "901 W. College Court",
+        "lat": 40.099139308962435,
+        "lon": -88.22033626557511,
+        "amenities": {
+            "gym": true,
+            "pool": false,
+            "studySpace": false,
+            "sauna": false,
+            "coveredParking": false,
+            "patio": false,
+            "pets": false
+        },
+        "company": "The Retreat"
+    }
+]
