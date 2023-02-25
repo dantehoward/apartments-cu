@@ -1,6 +1,7 @@
 import './App.css';
 import React from 'react';
 import MapContainer from '../Map/MapContainer.js';
+import OptionBar from '../OptionBar/OptionBar';
 
 class App extends React.Component {
 
@@ -13,7 +14,7 @@ class App extends React.Component {
     render() {
         return (
             <div>
-                <h1 text-align="center">Apartments CU</h1>
+                <OptionBar/>
                 <div>
                     <MapContainer></MapContainer>   
                 </div>
