@@ -3,7 +3,8 @@ import React from 'react';
 import MapContainer from '../MapContainer/MapContainer.js';
 import OptionBar from '../OptionBar/OptionBar';
 import BuildingList from '../BuildingList/BuildingList';
-import buildingData from '../../util/buildingData.js';
+
+const buildingData = require('../../util/buildings.json');
 
 class App extends React.Component {
 
@@ -19,7 +20,7 @@ class App extends React.Component {
                 <OptionBar/>
                 <div className='content'>
                     <BuildingList buildings={buildingData}/>
-                    <MapContainer/>   
+                    <MapContainer buildings={buildingData}/>   
                 </div>
             </div>
         );

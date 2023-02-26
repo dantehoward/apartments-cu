@@ -74,7 +74,7 @@ for index, row in df.iterrows():
 
 # Export json
 buildings_json = json.dumps(buildings, indent=4)
-f = open('./data/buildings.json', 'w')
+f = open('../src/util/buildings.json', 'w')
 f.write(buildings_json)
 
     
